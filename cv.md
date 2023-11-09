@@ -8,8 +8,9 @@ I'm deeply passionate about programming and creating a new project.
 
 ## Info
 
-- morkovog@gmail.com
+- e-mail: morkovog@gmail.com
 - [github](https://github.com/ground-cinnamon)
+- discord: Dd dd (ground-cinnamon)
 
 ## Education
 
@@ -24,6 +25,14 @@ I'm deeply passionate about programming and creating a new project.
 - English (B2)
 - Chinese (C2)
 
+## Code Examples
+
+```js
+function multiply(a, b) {
+	return a * b
+}
+```
+
 ## Profession Experience
 
 - BSEU
@@ -33,3 +42,7 @@ I'm deeply passionate about programming and creating a new project.
 
 - Guangzhou Anyue Network Technology
   - translator (2021)
+
+## Projects
+
+-[CV](https://ground-cinnamon.github.io/rsschool-cv/cv)
