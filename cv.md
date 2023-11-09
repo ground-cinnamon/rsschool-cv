@@ -45,4 +45,4 @@ function multiply(a, b) {
 
 ## Projects
 
--[CV](https://ground-cinnamon.github.io/rsschool-cv/cv)
+- [CV](https://ground-cinnamon.github.io/rsschool-cv/cv)
